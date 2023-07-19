@@ -1,0 +1,30 @@
+/* 2a9d8f */
+/* 264653 */
+
+body{
+    /* min-height: 2000px; */
+    background-color: #2a9d8f !important;
+}
+/* jumbotron */
+.jumbotron{
+    padding: 2rem 1rem ;
+    /* background-color: #2a9d8f  ; */
+}
+
+
+/* project */
+
+#project .card .btn:hover{
+    background-color: #264653 !important;
+}
+
+/* contact */
+
+#contact .col label{
+    display: block !important;
+}
+
+section{
+    padding-top: 4rem;
+}
+
